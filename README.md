@@ -47,6 +47,6 @@ Upon success, the application will be accessible via the Kubernetes LoadBalancer
 5. Deliverables
 The complete source code is available in the public repository below, and the application is live and running.
 
-Public GitHub Repository Link: 
+Public GitHub Repository Link: https://github.com/DeepakJ6336/Automated-Kubernetes-Deployment.git
 
 Live Deployed Application URL: a44b9ce54c5a9441aa3e737ba3d8900f-46689954.ap-south-1.elb.amazonaws.com
