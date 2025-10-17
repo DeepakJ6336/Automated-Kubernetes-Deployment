@@ -1,6 +1,6 @@
 terraform {
   backend "s3" {
-    bucket = "devsecops-hotstar-deepak" # Replace with your actual S3 bucket name
+    bucket = "devsecops-hotstar-deepak"
     key    = "EKS/terraform.tfstate"
     region = "ap-south-1"
   }
